@@ -38,3 +38,6 @@ python manage.py runserver
 ``` python manage.py createsuperuser ```
 - create user by adding email and password.
 - now login to admin page (localhost/8000/admin) with the same credentials.
+
+For More detailed of this python django project, you can refer to my blog.
+https://csjob.medium.com/a-journey-to-python-django-7bca5fbe221e
